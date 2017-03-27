@@ -1,3 +1,3 @@
-# DB_2016 branch under IMT repository.
+# DB_2017 branch under IMT repository.
 
-All database work for year 2016 should be delivered under this branch.
+All database work for year 2017 should be delivered under this branch.
